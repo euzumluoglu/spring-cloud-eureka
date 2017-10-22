@@ -1,3 +1,5 @@
+CONFIG_SERVER_URL: https://emn-cloud-config.herokuapp.com
+
 spring:
   application:
     name: eureka
